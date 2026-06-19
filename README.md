@@ -105,7 +105,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="www.linkedin.com/in/ranga-sai-ch-275300256" target="_blank">
+<a href="https://www.linkedin.com/in/ranga-sai-ch-275300256/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
